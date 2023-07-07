@@ -1,6 +1,6 @@
-function getRandommNumber() {
+function getRandomNumber() {
     return Math.floor(Math.random() * 100);
 }
 
 
-module.exports = getRandommNumber;
+module.exports = getRandomNumber;
